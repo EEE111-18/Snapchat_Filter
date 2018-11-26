@@ -1,6 +1,6 @@
 import cv2
 import face_recognition
-head = cv2.imread('head.png', -1)
+head = cv2.imread('head new.png', -1)
 cheek = cv2.imread('cheek.png', -1)
 head = cv2.cvtColor(head, cv2.COLOR_BGR2BGRA)
 cheek = cv2.cvtColor(cheek, cv2.COLOR_BGR2BGRA)
