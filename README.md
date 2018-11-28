@@ -2,3 +2,4 @@
 Requirements:
 cv2 for python3
 face_recognition
+Renee Isis Ambubuyog
